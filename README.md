@@ -1,6 +1,6 @@
 <div align="center">
 <h2 align="center">
-  <b>
+  <b>adminpanel
     <span>━━━━━━━━━━━━━━━━━━━━━━━━━━━</span>
     <br/>
     <img src="assets/logo.png" height="16" width="16" style="display: inline-block; vertical-align: middle; margin: 2px;"> Attention Residuals
